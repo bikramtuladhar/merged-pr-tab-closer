@@ -34,7 +34,7 @@ Not affiliated with or endorsed by GitHub, Inc.
 **Language:** English
 
 **Graphics** (in `store/`):
-- Store icon (128×128): `icons/icon128.png`
+- Store icon (128×128, 96px artwork with 16px padding): `store/store-icon-128.png`
 - Screenshots (1280×800): `store/screenshot-1-grouped.png`, `store/screenshot-2-closed.png`
 - Small promo tile (440×280): `store/promo-tile-440x280.png`
 
